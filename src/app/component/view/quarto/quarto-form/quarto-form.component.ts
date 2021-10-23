@@ -10,7 +10,7 @@ import { Router } from '@angular/router';
 })
 export class QuartoFormComponent implements OnInit {
 
-  titulo: string = "Cadastrar nova Hospedagem";
+  titulo: string = "Cadastrar novo Quarto";
 
   quarto: Quarto = {
     hotel: '', 
